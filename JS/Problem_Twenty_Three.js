@@ -7,4 +7,13 @@ function convert(celsius){
   return convertValue;
 }
 let getAns = convert(39);
-console.log(getAns)
+console.log(getAns);
+
+/* =================== ** ======================= */
+
+function converter(fahrenheit){
+  let convertValue = (fahrenheit - 32) * .5556;
+  return convertValue;
+}
+let getValue = converter(39);
+console.log(getValue);
