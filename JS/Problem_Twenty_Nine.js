@@ -1,0 +1,1 @@
+// write a function to get the lowest number in an array
