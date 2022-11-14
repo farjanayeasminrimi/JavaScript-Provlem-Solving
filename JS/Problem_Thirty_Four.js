@@ -1,5 +1,5 @@
 /*
- Write a function named paperRequirement that will take three-parameter. Parameters should be like these: firstBookCopy,secBookCopy, thirdBookCopy.
+ Write a function named paperRequirement that will take three-parameter. Parameters should be like these: firstBookQnt, secBookQnt, thirdBookQnt.
  Those parameters mean how many copies you want. When you call the function, it will return how many paper are needed for those books.
 */
 
